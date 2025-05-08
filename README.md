@@ -1,4 +1,4 @@
-# 💳 PROJECT TITLE
+# 💳 Payment Method OOP System
 
 ## 🧑‍🤝‍🧑 Team Members:
 - BACAY, KOTNIE
