@@ -9,7 +9,7 @@
 ## 📝 Description:
 This system simulates basic payment operations using **Object-oriented Programming** principles. 
 - It defines an abstract **PaymentMethod** class with common properties like `account_name` and `balance`.
-- The system implements concrete **subclasses** like `Gcash`, `CreditCard` and `Cash`  that handle payment and refund transactions.
+- The system implements concrete **subclasses** like `Gcash`, `Maya`, `CreditCard` and `BankTransfer`  that handle payment and refund transactions.
 - It apply core **methods** like `pay()` and `refund()` that handles basic logic of processing payment and issuing refunds.
   
 ## 💻 How to Run:
