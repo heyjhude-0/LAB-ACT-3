@@ -1,10 +1,10 @@
 # 💳 Payment Method System
 
 ## 🧑‍🤝‍🧑 Team Members:
-- BACAY, KOTNIE
-- CASANOVA, MICKHAEL
+- BACAY, KOTNIE EDRAE L.
+- CASANOVA, MICKHAEL D.
 - DAGLE, JHUDE DOMINIC C.
-- PEREZ, KIM JIMUEL
+- PEREZ, KIM JIMUEL A.
 
 ## 📝 Description:
 This system simulates basic payment operations using **Object-oriented Programming** principles. 
@@ -26,6 +26,6 @@ This system simulates basic payment operations using **Object-oriented Programmi
    python PaymentMethod.py
 
 ## 🙏 Acknowledgement
-We would like to extend our sincere gratitude to our *Advanced Computer Programming Instructor*, **Ms. Fatima Marie Agdon**, for her guidance and for sharing her knowledge of **Object-Oriented Programming** (OOP) concepts and best practices. We also extend our appreciation to our team members — **Kotnie Bacay**, **Mickhael Casanova**, **Jhude Dominic Dagle**, and **Kim Jimuel Perez** — for their collaboration, dedication, and shared effort for the completion of this activity. 
+We would like to extend our sincere gratitude to our *Advanced Computer Programming Instructor*, **Ms. Fatima Marie Agdon**, for her guidance and for sharing her knowledge of **Object-Oriented Programming** (OOP) concepts and best practices. We also extend our appreciation to our team members — **Kotnie Edrae Bacay**, **Mickhael Casanova**, **Jhude Dominic Dagle**, and **Kim Jimuel Perez** — for their collaboration, dedication, and shared effort for the completion of this activity. 
 
 
